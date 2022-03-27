@@ -1,1 +1,2 @@
-## First project in git on Java QA Automation on practicum.yandex.ru
+*Java QA automation course on practicum.yandex.ru*
+## First project
